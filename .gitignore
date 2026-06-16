@@ -1,0 +1,30 @@
+# بيئة Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# قاعدة البيانات
+*.db
+*.sqlite
+
+# ملفات الإعدادات الشخصية
+.env
+config_local.py
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# سجلات
+*.log
